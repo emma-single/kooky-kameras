@@ -1,0 +1,23 @@
+{
+  "name": "kooky-kameras",
+  "version": "1.0.0",
+  "description": "kooky-kameras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emma-single/kooky-kameras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emma-single/kooky-kameras/issues"
+  },
+  "homepage": "https://github.com/emma-single/kooky-kameras#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
